@@ -1,0 +1,1 @@
+éste proyecto es un ejemplo de programación orientada a objetos (poo) se hace uso de interface, herencia y uso de la libreria loombok. Creación de una cuenta, métodos como depositar, transferir e impresión de estado de cuenta.
